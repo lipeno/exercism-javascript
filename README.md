@@ -1,4 +1,4 @@
-# exercism-javascript
+# Javascript exercises
 Javascript exercises done as a reminder for the core Javascript concepts previously learned and to master the language specifics and achieve fluency.
 
 ## Configuration
